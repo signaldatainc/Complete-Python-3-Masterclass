@@ -1,6 +1,7 @@
 # Complete-Python-3-Masterclass
 Course Files for Complete Python 3 Masterclass Course
 I am your Instructor Divyansh Palia 
+Signal Data.jpg
 Python is a general-purpose, versatile, and powerful programming language. It’s a great first language because it’s concise and easy to read. Whatever you want to do, Python can do it. From web development to machine learning to data science, Python is the language for you
 Why we love it:
 
